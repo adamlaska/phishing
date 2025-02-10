@@ -6,7 +6,7 @@
   },
   "homepage": "https://github.com/polkadot-js/phishing#readme",
   "license": "Apache-2.0",
-  "packageManager": "yarn@4.1.0",
+  "packageManager": "yarn@4.6.0",
   "private": true,
   "repository": {
     "type": "git",
@@ -14,10 +14,10 @@
   },
   "sideEffects": false,
   "type": "module",
-  "version": "0.22.2-156-x",
+  "version": "0.25.4-7-x",
   "versions": {
-    "git": "0.22.2-156-x",
-    "npm": "0.22.1"
+    "git": "0.25.4-7-x",
+    "npm": "0.25.3"
   },
   "workspaces": [
     "packages/*"
@@ -41,10 +41,10 @@
     "dnslink-cloudflare": "^3.0.0"
   },
   "devDependencies": {
-    "@polkadot/dev": "^0.78.3",
-    "@types/node": "^20.10.5"
+    "@polkadot/dev": "^0.83.2",
+    "@types/node": "^22.10.5"
   },
   "resolutions": {
-    "typescript": "^5.3.3"
+    "typescript": "^5.5.4"
   }
 }

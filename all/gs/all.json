@@ -1,4 +1,7 @@
 [
+	"dappadar.gs",
 	"layerzero.gs",
-	"metamask.gs"
+	"metamask.gs",
+	"withdraw-crypto.gs",
+	"yourcrypto.gs"
 ]

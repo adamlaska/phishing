@@ -1,5 +1,6 @@
 [
 	"altsupport.tools",
+	"api-community.tools",
 	"blockbridge.tools",
 	"cfddapp.tools",
 	"chainprotocol.tools",
@@ -9,6 +10,7 @@
 	"defifix.tools",
 	"dexconnections.tools",
 	"erc20rescue.tools",
+	"flashing.tools",
 	"hc-multibridge.tools",
 	"hodld.tools",
 	"io-dex.tools",
@@ -22,8 +24,10 @@
 	"pancakeswap.tools",
 	"polkastarter.tools",
 	"protocolapps.tools",
+	"safeconnect.tools",
 	"solidity-cbridge.tools",
 	"stargatesfinance.tools",
 	"trustswallet.tools",
-	"walletconnect.tools"
+	"walletconnect.tools",
+	"webconnect.tools"
 ]

@@ -3,7 +3,9 @@
 	"connectdappweb.rf.gd",
 	"cryptoclaim.rf.gd",
 	"dapp-webnode.rf.gd",
+	"dappadar.gd",
 	"dappschainfix.rf.gd",
+	"dappsignwallet.rf.gd",
 	"dappsverificaion.work.gd",
 	"dappwallet.rf.gd",
 	"dappwalletnode.rf.gd",
@@ -32,6 +34,8 @@
 	"sluquiddecv.work.gd",
 	"sudermewqxc.work.gd",
 	"verificationmetamask.rf.gd",
+	"wallet-dapp-rectify.rf.gd",
+	"walletfix.rf.gd",
 	"walletsyncweb.rf.gd",
 	"walletverified.rf.gd"
 ]

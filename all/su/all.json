@@ -1,4 +1,5 @@
 [
+	"claim-airdrop.su",
 	"dappradar.su",
 	"excoin.su",
 	"fetch-airdrop.su",
@@ -6,5 +7,6 @@
 	"jitonetwork.su",
 	"manta.su",
 	"securetoken.su",
-	"walletconnect.su"
+	"walletconnect.su",
+	"xrust.su"
 ]

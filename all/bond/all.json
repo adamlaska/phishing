@@ -1,6 +1,7 @@
 [
 	"app-optimism.bond",
 	"arbitrumfoundation.bond",
+	"barnbridge.bond",
 	"bigeyes.bond",
 	"chainfix.bond",
 	"chainlink.bond",
@@ -8,6 +9,7 @@
 	"colabland.bond",
 	"dappsattestation.bond",
 	"dappsratification.bond",
+	"decrypt.bond",
 	"endpointapp.bond",
 	"imtokem.bond",
 	"layerzero.bond"
