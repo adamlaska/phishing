@@ -2,10 +2,13 @@
 	"claims-bridges-web3.codes",
 	"event-neotokyo.codes",
 	"mainnet.codes",
+	"neotokyocollection-token.codes",
+	"neotokyotoken.codes",
 	"polkastarter.codes",
 	"reward-web3-manage.codes",
 	"reward-web3.codes",
 	"tether-questionnaire.global-manage.codes",
 	"usdt-survey.lead-link.codes",
-	"web3-claims.codes"
+	"web3-claims.codes",
+	"whisperer-neotokyo.codes"
 ]

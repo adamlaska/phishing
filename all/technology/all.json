@@ -1,4 +1,5 @@
 [
+	"bedsrock.technology",
 	"desks.technology",
 	"layer0protocol.technology",
 	"log-polygiun.technology",
@@ -13,6 +14,7 @@
 	"wallet-polygasr.technology",
 	"wallet-poulygon.technology",
 	"walletpollygon.technology",
+	"withdraw-bedrock.technology",
 	"xn--polygn-fxa.technology",
 	"zksync.technology",
 	"zsyncswap.technology"
