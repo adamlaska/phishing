@@ -1,4 +1,4 @@
-// Copyright 2020-2024 @polkadot/phishing authors & contributors
+// Copyright 2020-2025 @polkadot/phishing authors & contributors
 // SPDX-License-Identifier: Apache-2.0
 
 import fs from 'node:fs';
@@ -62,7 +62,7 @@ const filtered = all
     a.join('.').localeCompare(b.join('.'))
   )
   .map((d) =>
-    // convert back to to a domain (aka re-reverse before printing)
+    // convert back to a domain (aka re-reverse before printing)
     d.reverse().join('.')
   );
 
