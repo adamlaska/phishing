@@ -1,8 +1,10 @@
 [
+	"appstore.rest",
 	"balancer.rest",
 	"celestia-airdrop.rest",
 	"celestia.rest",
 	"collab.rest",
+	"dappradar.rest",
 	"pyth.rest",
 	"tokenpocketn.rest",
 	"wallet.socially.rest"

@@ -1,5 +1,227 @@
 # CHANGELOG
 
+## 0.25.5 Mar 4, 2025
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.25.3 Feb 18, 2025
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+Changes:
+
+- Upgrade common to 13.4.3 ([#4957](https://github.com/polkadot-js/phishing/pull/4957))
+
+
+## 0.25.3 Feb 4, 2025
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.25.2 Jan 21, 2025
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+Changes:
+
+- Bump dev to 0.83.2 ([#4887](https://github.com/polkadot-js/phishing/pull/4887))
+
+
+## 0.25.1 Jan 7, 2025
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+Changes:
+
+- Upgrade common to 13.3.1 ([#4866](https://github.com/polkadot-js/phishing/pull/4866))
+- Bump dev w/ ts ([#4867](https://github.com/polkadot-js/phishing/pull/4867))
+
+
+## 0.24.5 Dec 30, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.24.4 Dec 2, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.24.3 Nov 11, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+Changes:
+
+- Upgrade polkadot/common to 13.2.3 ([#4748](https://github.com/polkadot-js/phishing/pull/4748))
+- Bump dev to 0.82.1 w/ tslib ([#4747](https://github.com/polkadot-js/phishing/pull/4747))
+
+
+## 0.24.2 Oct 30, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+Changes:
+
+- Upgrade polkadot/common to 13.2.2 ([#4735](https://github.com/polkadot-js/phishing/pull/4735))
+
+
+## 0.24.1 Oct 22, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+Changes:
+
+- Bump yarn to 4.5.1 ([#4721](https://github.com/polkadot-js/phishing/pull/4721))
+- Upgrade polkadot/common to 13.2.1 ([#4720](https://github.com/polkadot-js/phishing/pull/4720))
+- Bump dev to 0.81.2 ([#4719](https://github.com/polkadot-js/phishing/pull/4719))
+    - This allows for correct CJS and ESM targetting
+
+
+## 0.23.7 Sep 23, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.23.6 Sep 23, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.23.5 Sep 18, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.23.4 Aug 19, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.23.3 Aug 5, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.23.2 July 29, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.23.1 July 13, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+Changes:
+
+- Bump polkadot/common to 13.0.2
+  - This contains the latest changes to the Ledger interface in `@polkadot/hw-ledger`. For more info please see ([13.0.1](https://github.com/polkadot-js/common/releases/tag/v13.0.1))
+- Bump yarn to 4.3.1
+
+
+## 0.22.10 June 24, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.22.9 June 18, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.22.8 May 22, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.22.7 May 8, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.22.6 Apr 16, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.22.5 Apr 16, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.22.4 Mar 20, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.22.3 Mar 13, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+
+## 0.22.2 Feb 28, 2024
+
+Contributed:
+
+- Too many URLs to mention (Thanks to all [contributors](https://github.com/polkadot-js/phishing/graphs/contributors))
+
+Changes:
+
+- Update to `@polkadot/util` 12.6.2
+- Allow addition of denySub entries
+
+
 ## 0.22.1 Nov 18, 2023
 
 Contributed:
